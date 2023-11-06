@@ -1,0 +1,19 @@
+{
+    "proyectos": [
+      {
+        "nombre": "HelpCommunity",
+        "descripcion": "Una plataforma de colaboración comunitaria para ayudar a resolver problemas locales y fomentar la participación cívica.",
+        "imagen": "/images/helpcomm.png",
+        "url":"https://help-community-theta.vercel.app/products",
+        "tecnologias": ["HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB"]
+      },
+      {
+        "nombre": "DoggoConnect",
+        "descripcion": "Una red social para amantes de los perros que les permite conectarse, compartir fotos y consejos sobre el cuidado de sus mascotas.",
+        "imagen": "/images/doggocon.png",
+        "url": "dogs-j79qleyht-gonzafreddi.vercel.app", 
+        "tecnologias": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB"]
+      }
+    ]
+  }
+  

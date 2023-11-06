@@ -1,0 +1,49 @@
+{
+    "technologies": [
+      {
+        "name": "JavaScript",
+        "image": "https://cdn-icons-png.flaticon.com/256/5968/5968292.png"
+      },
+      {
+        "name": "React",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "HTML",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "CSS",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      },
+      {
+        "name": "TypeScript",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      },
+      {
+        "name": "Astro",
+        "image": "https://astro.build/assets/press/astro-icon-light-gradient.svg"
+      },
+      {
+        "name": "Node.js",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
+      },
+      {
+        "name": "Express",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+      },
+      {
+        "name": "Redux",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+      },
+      {
+        "name": "Sequelize",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+      },
+      {
+        "name": "PostgreSQL",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      }
+    ]
+  }
+  
