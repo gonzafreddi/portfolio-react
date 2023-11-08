@@ -30,7 +30,7 @@ const handleSubmit = async (e) => {
     console.log(e.target.value);
   };
   return (
-    <section className="flex justify-center py-20 lg:py-[120px] overflow-hidden relative z-10">
+    <section className="flex justify-center py-20 lg:py-[120px] overflow-hidden relative z-10 p-10">
       <div className="container">
         <div className="flex flex-wrap lg:justify-between -mx-4">
           <div className="w-full lg:w-1/2 xl:w-6/12 px-4">
@@ -46,10 +46,10 @@ const handleSubmit = async (e) => {
               </p>
               <div className="flex gap-8">
                 <a href="https://www.linkedin.com/in/gonzalo-freddi-39866a252/" rel="noreferrer" target="_blank">
-                  <img className="w-14" src="https://cdn-icons-png.flaticon.com/256/3536/3536505.png" alt="" />
+                  <img className="w-10 md:w-14" src="https://cdn-icons-png.flaticon.com/256/3536/3536505.png" alt="" />
                 </a>
                 <a href="https://github.com/gonzafreddi">
-                  <img className="w-14" src="https://cdn-icons-png.flaticon.com/256/5968/5968866.png" alt="" />
+                  <img className="w-10 md:w-14" src="https://cdn-icons-png.flaticon.com/256/5968/5968866.png" alt="" />
                 </a>
               </div>
             </div>
