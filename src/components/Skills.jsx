@@ -7,7 +7,7 @@ AOS.init()
 export default function Skills() {
   return (
     <>
-      <section  data-aos="fade-up-right" className="flex justify-center">
+      <section  data-aos="fade-up" className="flex justify-center">
         <div className="w-4/5 p-10 flex justify-center">
           <div>
             <h2 className="text-white text-4xl font-semibold text-center mb-10 " >

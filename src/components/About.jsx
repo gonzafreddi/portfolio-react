@@ -4,7 +4,7 @@ AOS.init()
 export default function About() {
     return (
       <>
-        <section data-aos="fade-up" className="text-white flex justify-center font-semibold mt-24  h-screen items-center ">
+        <section data-aos="fade-up"className="text-white flex justify-center font-semibold mt-24  h-screen items-center ">
           <div className="flex justify-center md:w-4/5">
             <div className="grid md:grid-cols-2 w-4/5 md:p-6">
               <div className="m-10  h-40 w-sreen mb-16">
@@ -16,10 +16,7 @@ export default function About() {
                     Acerca de mí
                   </h2>
                   <p className="md:text-2xl">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non,
-                    facere. Repellendus ullam rerum ex, expedita qui labore, id
-                    asperiores dolores blanditiis velit consequuntur, repellat odit
-                    numquam nam sequi vero aspernatur.
+                  Soy Gonzalo, un apasionado desarrollador web full stack con una sólida experiencia en la creación de proyectos tanto en solitario como en equipos colaborativos. Mi enfoque se centra en el desarrollo de aplicaciones web atractivas y funcionales. Estoy capacitado para la creación de Single Page Applications (SPA), lo que significa que puedo desarrollar aplicaciones web interactivas y fluidas que ofrecen una experiencia de usuario excepcional. Mi conjunto de habilidades abarca desde la creación de interfaces de usuario atractivas con HTML, CSS y JavaScript, hasta el desarrollo de servidores y bases de datos robustos para respaldar estas aplicaciones
                   </p>
                 </div>
               </div>
