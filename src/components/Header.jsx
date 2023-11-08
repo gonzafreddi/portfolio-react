@@ -3,7 +3,7 @@ import style from './header.module.css'
 export default function Header() {
     return (
       <>
-        <section className=" grid md:grid md:grid-cols-2 h-screen w-screen font-semibold ">
+        <section data-aos="fade-up"  className=" grid md:grid md:grid-cols-2 h-screen w-screen font-semibold ">
           <div className="flex items-center text-white ">
             <div className=" w-screen text-center">
               <h1 className="text-4xl md:text-8xl pl-4">Hola, soy</h1>

@@ -1,7 +1,10 @@
+import 'aos/dist/aos.css'; 
+import AOS from 'aos';
+AOS.init()
 export default function About() {
     return (
       <>
-        <section className="text-white flex justify-center font-semibold mt-24">
+        <section data-aos="fade-up" className="text-white flex justify-center font-semibold mt-24  h-screen items-center ">
           <div className="flex justify-center md:w-4/5">
             <div className="grid md:grid-cols-2 w-4/5 md:p-6">
               <div className="m-10  h-40 w-sreen mb-16">

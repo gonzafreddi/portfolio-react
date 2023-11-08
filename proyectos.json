@@ -11,7 +11,7 @@
         "nombre": "DoggoConnect",
         "descripcion": "Una red social para amantes de los perros que les permite conectarse, compartir fotos y consejos sobre el cuidado de sus mascotas.",
         "imagen": "/images/doggocon.png",
-        "url": "dogs-j79qleyht-gonzafreddi.vercel.app", 
+        "url": "https://dogs-j79qleyht-gonzafreddi.vercel.app", 
         "tecnologias": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB"]
       }
     ]

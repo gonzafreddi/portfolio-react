@@ -8,7 +8,7 @@ function Proyects() {
       <h1 className="text-white text-center font-semibold text-2xl md:text-4xl m-32">Proyectos</h1>
       <section className="w-full flex justify-center">
         <div className="md:w-3/5 flex justify-center">
-          <div className="mb:flex gap-24 ">
+          <div className="md:flex gap-24 mb-4">
             {proyectos.proyectos.map((e, index) => (
               <CardProyect
                 key={index}

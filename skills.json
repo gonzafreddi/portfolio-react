@@ -21,16 +21,12 @@
         "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
       },
       {
-        "name": "Astro",
-        "image": "https://astro.build/assets/press/astro-icon-light-gradient.svg"
-      },
-      {
         "name": "Node.js",
         "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
       },
       {
         "name": "Express",
-        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        "image": "https://hackersandslackers-cdn.storage.googleapis.com/2020/05/express.png"
       },
       {
         "name": "Redux",
