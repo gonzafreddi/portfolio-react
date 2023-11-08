@@ -19,7 +19,7 @@ export default function Header() {
           </div>
           <div className="flex items-center pr-4 -mt-10 md:-mt-0 md:h-auto h-56">
             <div>
-              <img src='../../images/Codetypingblue.png' alt="Imagen de escritura de código" />
+              <img src='https://github.com/gonzafreddi/portfolio-react/blob/main/images/Codetypingblue.png?raw=true' alt="Imagen de escritura de código" />
             </div>
           </div>
         </section>

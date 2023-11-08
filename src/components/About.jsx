@@ -8,7 +8,7 @@ export default function About() {
           <div className="flex justify-center md:w-4/5">
             <div className="grid md:grid-cols-2 w-4/5 md:p-6">
               <div className="m-10  h-40 w-sreen mb-16">
-                <img src="../../images/profile-pic.png" alt="Mi foto de perfil" />
+                <img src="https://avatars.githubusercontent.com/u/119691309?s=400&u=5ec38e2765ba260900dd8093ad9d3cd644ca350a&v=4" alt="Mi foto de perfil" />
               </div>
               <div className="flex justify-center items-center ">
                 <div>

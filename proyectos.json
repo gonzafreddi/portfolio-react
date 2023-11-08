@@ -3,14 +3,14 @@
       {
         "nombre": "HelpCommunity",
         "descripcion": "Una plataforma de colaboración comunitaria para ayudar a resolver problemas locales y fomentar la participación cívica.",
-        "imagen": "/images/helpcomm.png",
+        "imagen": "https://github.com/gonzafreddi/portfolio-react/blob/main/images/helpComm.png?raw=true",
         "url":"https://help-community-theta.vercel.app/products",
         "tecnologias": ["HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB"]
       },
       {
         "nombre": "DoggoConnect",
         "descripcion": "Una red social para amantes de los perros que les permite conectarse, compartir fotos y consejos sobre el cuidado de sus mascotas.",
-        "imagen": "/images/doggocon.png",
+        "imagen": "https://github.com/gonzafreddi/portfolio-react/blob/main/images/doggocon.png?raw=true",
         "url": "https://dogs-j79qleyht-gonzafreddi.vercel.app", 
         "tecnologias": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB"]
       }
