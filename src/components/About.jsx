@@ -4,7 +4,7 @@ AOS.init()
 export default function About() {
     return (
       <>
-      <div className='text-white w-screen flex flex-col justify-center items-center '>
+      <div className='text-white w-screen flex flex-col justify-center items-center  mt-6 '>
             <h2 id="About" className=" text-2xl  md:text-6xl text-center mt-6 mb-6 ">
                     Acerca de mí
              </h2>
