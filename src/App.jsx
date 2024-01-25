@@ -9,11 +9,13 @@ function App() {
 
   return (
     <>
-    <Header/>
+<div className=' overflow-x-hidden'>
+<Header/>
     <About/>
     <Skills/>
     <Proyects/>
     <ContactSection/>
+</div>
     </>
   )
 }
