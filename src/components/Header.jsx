@@ -12,7 +12,7 @@ export default function Header() {
                 <span className="md:text-2xl sm:text-xl pl-4">Desarrollador web</span>
 
               </p>
-              <a target="_blank" href="https://docs.google.com/document/d/1CA6hbpwH2HuUGeiLyY1DieKExFN9uwKm/edit?usp=sharing&ouid=105461425200079326396&rtpof=true&sd=true" className="md:text-2xl text-blue-400 bg-bgviolet/20  rounded-lg hover:text-white ease-in duration-150 hover-border-bg-blue-900/80 pl-4" rel="noreferrer">
+              <a target="_blank" href="https://docs.google.com/document/d/1DCbWs7zE4BpSn70PMrgc8Fz-FbWU_QweJpmwdzvZh68/edit?usp=sharing" className="md:text-2xl text-blue-400 bg-bgviolet/20  rounded-lg hover:text-white ease-in duration-150 hover-border-bg-blue-900/80 pl-4" rel="noreferrer">
                 Ver CV
               </a>
             </div>
